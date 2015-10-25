@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Algoritmo de conversión' 
+4
+1
+19
+'Inserte la medida'
+5
+1
+2
+N1
+6
+3
+2
+cm
+4
+1*N1
+7
+pulgada
+7
+2.53*N1
+2
+ft
+5
+30.48
+6
+3
+2
+yd
+8
+91.44*N1
+6
+millas
+11
+160934.4*N1
+3
+km 
+9
+100000*N1
+4
+1
+34
+'La conversion de cm a cm es ', cm
+4
+1
+31
+'La conversion de km a cm ', km
+4
+1
+45
+'La conversion de pulgadas a cm es ', pulgada
+4
+1
+37
+'La conversion de feets a cm es ', ft
+4
+1
+35
+'La conversion de yardas a cm ', yd
+4
+1
+39
+'La conversion de millas a cm ', millas
+1

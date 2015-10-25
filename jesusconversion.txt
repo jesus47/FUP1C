@@ -1,0 +1,17 @@
+INICIO 
+      Escribir 'Algoritmo de conversión' 
+      Escribir 'Inserte la medida'
+      Leer N1 
+      cm     <---- 1*N1
+      pulgada<-----2.53*N1
+      ft     <-----30.48*N1
+      yd     <-----91.44*N1
+      millas <-----160934.4*N1
+      km     <-----100000*N1
+      Escribir 'La conversion de cm a cm es ', cm
+      Escribir 'La conversio de pulgadas a cm es', pulgada
+      Escribir 'La conversión de feets a cm es ', ft
+      Escribir 'La conversión de yardas a cm es ', yd
+      Escribir 'La conversión de millas a cm es  ', millas 
+      Escribir 'La conversión de km a cm es ', km
+FIN

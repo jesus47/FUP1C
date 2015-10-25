@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Escribe tu edad. '
+5
+1
+4
+edad
+7
+0
+1
+9
+edad > 59
+7
+0
+1
+10
+edad  > 29
+7
+0
+1
+9
+edad > 19
+7
+0
+1
+8
+edad >13
+7
+0
+1
+8
+edad > 3
+4
+1
+14
+'Eres un bebé'
+13
+4
+1
+19
+'Eres aún muy niño'
+13
+13
+4
+1
+20
+'Todavía un puberto'
+13
+13
+4
+1
+26
+' Eres todo un jovenzuelo'
+13
+13
+4
+1
+16
+'Eres un adulto'
+13
+13
+4
+1
+28
+'Estás más pa llá que pa cá'
+13
+1

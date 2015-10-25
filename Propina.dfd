@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+197
+'Si la cuenta es menor a 1000, se aplicará el 20% a la propina. Si la cuenta es entre 1000 y 5000, se aplicará el 16% de la propina. Si la cuenta es mayor a 5000, se aplicará el 10% de la propina.'
+5
+1
+6
+cuenta
+7
+0
+1
+13
+cuenta > 1000
+6
+2
+2
+n1
+14
+cuenta  * 0.20
+2
+n2
+22
+cuenta * 0.20 + cuenta
+4
+1
+21
+'La propina es: ', n1
+4
+1
+19
+'El total es: ', n2
+13
+7
+0
+1
+13
+cuenta > 5000
+6
+2
+2
+n1
+13
+cuenta * 0.16
+3
+n2 
+22
+cuenta * 0.16 + cuenta
+4
+1
+21
+'La propina es: ', n1
+4
+1
+19
+'El total es: ', n2
+13
+6
+2
+2
+n3
+14
+cuenta * 0.10 
+2
+n4
+22
+cuenta * 0.10 + cuenta
+4
+1
+21
+'La propina es :', n3
+4
+1
+19
+'El total es: ', n4
+13
+13
+1

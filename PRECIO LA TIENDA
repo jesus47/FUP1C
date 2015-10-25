@@ -1,0 +1,19 @@
+INICIO
+      Escribir 'punto de venta' 
+      Escribir 'Ingrese la cantidad de refrescos'
+      Leer N1
+      Escribir 'Ingrese la cantidad de dulces'
+      Leer N2
+      Escribir 'Ingrese la cantidad de pan'
+      Leer N3 
+      refresco <-- 10
+      dulces <---- 3
+      pan <--------3
+      Escribir 'Ingrese el número de cigarros' 
+      Leer N4
+      Escribir 'Ingrese el número de papas'
+      Leer N5
+      Cigarros<--- 4
+      papas<------10
+      total<------ refrescos+dulces+pan+cigarros+papas
+      Escribir 'El total es: ', total

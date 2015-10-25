@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+'Algoritmo que saca el área de un triángulo'
+4
+1
+30
+'Inserte la medida de la base'
+5
+1
+2
+N1
+4
+1
+19
+'Inserte la altura'
+5
+1
+2
+N2
+6
+1
+4
+area
+7
+N1*N2/2
+4
+1
+18
+'El area es', area
+1

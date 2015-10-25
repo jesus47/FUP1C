@@ -1,0 +1,7 @@
+Inicio
+      Escribir 'Algoritmo que da la propina'
+      Escribir 'Ingrese la cuenta'
+      N1
+      division<-------N1/10
+      Escribir 'La propina es:', division
+Fin

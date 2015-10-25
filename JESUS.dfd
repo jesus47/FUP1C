@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'algoritmo que te da la propina'
+4
+1
+19
+'Ingresa la cuenta'
+5
+1
+2
+N1
+6
+1
+10
+porcentaje
+5
+N1/10
+4
+1
+28
+'La propina es:', porcentaje
+1

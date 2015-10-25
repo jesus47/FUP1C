@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Algoritmo de la regla de 3'
+4
+1
+29
+'Ingresa el número de tareas'
+5
+1
+2
+N1
+4
+1
+25
+'Cuánto valen las tareas'
+5
+1
+2
+N2
+4
+1
+19
+'Cuántas hiciste? '
+5
+1
+2
+N3
+6
+1
+5
+opera
+8
+N3*N2/N1
+4
+1
+29
+'Tu calificacion es: ', opera
+1
