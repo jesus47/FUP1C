@@ -24,7 +24,7 @@ int main ()
     printf("Presiona 1 si deseas comprar.\nPresiona 2 si deseas ver ganancias.\n");
     scanf("%d",& n1);
     if (n1==1){
-    printf ("1 Cigarros $4\n 2 refrescos $10\n 3 tortas $13\n 4 maruchan $11\n 5 jugos $6\n");
+    printf (" 1 Cigarros $4\n 2 refrescos $10\n 3 tortas $13\n 4 maruchan $11\n 5 jugos $6\n");
     scanf("%d", &n2);
     switch (n2)
     {

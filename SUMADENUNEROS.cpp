@@ -9,8 +9,9 @@ int main ()
     scanf ("%d", & n1);
     while (i <= n1)
     {
-          printf ("%d\n", i);
+          suma = suma + i;
           i = i + 1;
-    }
+           
+    } printf ("%d\n", suma);
     system ("PAUSE");
 }
