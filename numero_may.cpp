@@ -4,6 +4,7 @@ int i;
 int b;
 int main()
 {
+    printf("Programa que muestra un rango\n");
 	printf("Escribe el primer numero\n");
 	scanf("%d" ,&i);
 	printf("Escribe el segundo numero\n");
