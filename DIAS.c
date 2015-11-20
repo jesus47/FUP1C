@@ -58,11 +58,11 @@ int main()
 	{
 	if(dia1<=n)
 	{
-	con=con+1;
+	           con=con+1;
 	}
 	dia1=dia1+1;
 	}while(dia1<=n);
-	printf("los dias son %d\n",con-1);
+    	printf("los dias son %d\n",con-1);
 system("PAUSE"); 
 exit(0);
 }     
