@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-  int numeros[10];
-    int contador=0;
+  int cal[10];
+    int i=0;
     int auxiliar[10];
     int posicion=0;
     int numero=0;
@@ -13,32 +13,29 @@
 int main()
 {
     printf("PROGRAMA QUE TE MUESTRA LA MODA DE DIEZ NUMEROS\n\n");
-    for(contador=0;contador<10;contador++) {
-        printf("Escribe el digito %d : ",contador+1);
-        scanf(" %d",&numeros[contador]);
+    for(i=0;i<10;i++) 
+    {
+        printf("Escribe el digito %d : ",i+1);
+        scanf(" %d",&cal[i]);
+    }    
+    for(i=0;i<10;i++) {
+        auxiliar[i]=0;
     }
-    printf("Elementos :\n");
-    for(contador=0;contador<10;contador++) {
-        printf(" %d",numeros[contador]);
-    }
-    for(contador=0;contador<10;contador++) {
-        auxiliar[contador]=0;
-    }
-    for(contador=0;contador<10;contador++) {
-        numero = numeros[contador];
-        posicion = contador;
-        for(contador2=contador;contador2<10;contador2++) {
-            if(numeros[contador2]==numero) auxiliar[posicion]++;
+    for(i=0;i<10;i++) {
+        numero = cal[i];
+        posicion = i;
+        for(contador2=i;contador2<10;contador2++) {
+            if(cal[contador2]==numero) auxiliar[posicion]++;
         }
     }
     mayor=auxiliar[0];
     posicionmayor = 0;
-    for(contador=0;contador<10;contador++) {
-        if(auxiliar[contador]>mayor) {
-            posicionmayor=contador;
-            mayor=auxiliar[contador];
+    for(i=0;i<10;i++) {
+        if(auxiliar[i]>mayor) {
+            posicionmayor=i;
+            mayor=auxiliar[i];
         }
     }
-   printf("\nLa moda es  : %d \n",numeros[posicionmayor]);
+   printf("\nLa moda es  : %d \n",cal[posicionmayor]);
 system("PAUSE");
 }
