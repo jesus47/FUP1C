@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Algoritmo de conversion'
+4
+1
+34
+'Inserte la cantidad en Megabytes'
+5
+1
+2
+N1
+6
+3
+3
+bit
+10
+N1*8388608
+4
+byte
+10
+N1*1048576
+2
+kb
+7
+N1*1024
+6
+3
+2
+mb
+4
+N1*1
+2
+gb
+15
+N1*0.0009765626
+2
+tb
+16
+N1*0.00000095367
+4
+1
+13
+'bits: ', bit
+4
+1
+15
+'Bytes: ', byte
+4
+1
+11
+'Kb : ', kb
+4
+1
+11
+'Mb : ', mb
+4
+1
+10
+'Gb : ',gb
+4
+1
+10
+'Tb: ', tb
+1

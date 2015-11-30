@@ -1,0 +1,10 @@
+Inicio
+      Escribir 'Ingresa el número de tareas'
+      Leer N1
+      Escribir 'Cuánto valen las tareas?' 	'
+      Leer N2
+      Escribir 'Cuántas tareas tienes?'
+      Leer N3
+      opera <----- N3*N2/N1
+      Escribir 'Tu calificacion es: ', opera
+FIN

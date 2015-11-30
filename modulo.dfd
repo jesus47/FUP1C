@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Algoritmo que saca el modulo'
+4
+1
+19
+'Inserte el número'
+5
+1
+2
+N1
+6
+1
+6
+modulo
+9
+N1 mod 10
+4
+1
+24
+'El modulo es: ', modulo
+1

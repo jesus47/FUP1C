@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Algoritmo para saber la propina'
+4
+1
+19
+'Ingresa la cuenta'
+5
+1
+2
+N1
+4
+1
+31
+'Ingresa el numero de personas'
+5
+1
+2
+N2
+6
+3
+10
+porcentaje
+5
+N1/N2
+8
+propina 
+8
+N1/N2/N2
+5
+total
+14
+N1/N2/N2+N1/N2
+4
+1
+30
+'Cada uno paga= ', porcentaje 
+4
+1
+35
+'La propina individual es', propina
+4
+1
+37
+'Por cada persona debes pagar', total
+1
